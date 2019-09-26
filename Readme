@@ -1,1 +1,2 @@
-This is a complete code for performing WSD based on Neural architecture BDLSTM, all words, sequence learning, hierarchical modeling.
+This is a complete code for NLP Class of Professor Navigli in Sapienza University of Rome.
+it's performing Word Sense Disambiguation (WSD) based on Neural architecture BDLSTM, all words, sequence learning, hierarchical modeling.
